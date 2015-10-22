@@ -24,7 +24,7 @@ public class Main {
         
         Money resultado = primerMoneda.sumar(segundaMoneda, tipoDeCambio);
         
-        System.out.println("Al sumar UY 100 con USD 1 USD el resultado es: " + resultado.toString());
+        System.out.println("Al sumar UY 100 y USD 1 USD el resultado es: " + resultado.toString());
     }
     
 }
